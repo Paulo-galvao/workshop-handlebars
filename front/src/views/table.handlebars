@@ -1,0 +1,24 @@
+<table>
+    <thead>
+        <tr>
+            <td>Modelo</td>
+            <td>Placa</td>
+            <td>Ano</td>
+            <td>Proprietário</td>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each dados}}
+        <tr>
+            <td>{{model}}</td>
+            <td>{{plate}}</td>
+            <td>{{year}}</td>
+            <td>{{owner}}</td>
+            
+            <td>
+                <a href="edit/{{id}}">Editar</a>
+            </td> 
+        </tr>
+        {{/each}}
+    </tbody>
+</table>

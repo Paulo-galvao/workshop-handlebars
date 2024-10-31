@@ -1,0 +1,53 @@
+{
+  "vehicles": [
+    {
+      "model": "Renault Clio",
+      "plate": "aka2498",
+      "year": 2001,
+      "owner": "Paulo Cesar",
+      "id": "7f06"
+    },
+    {
+      "model": "Yamaha Factor",
+      "plate": "atg4j92",
+      "year": 2010,
+      "owner": "Paulo Cesar",
+      "id": "9aec"
+    },
+    {
+      "id": "72f1",
+      "model": "Toyota Corolla",
+      "plate": "nap2157",
+      "year": "2001",
+      "owner": "Paulo Galvão"
+    },
+    {
+      "id": "6c2d",
+      "model": "audi a4",
+      "plate": "nap2468",
+      "year": "2024",
+      "owner": "MR. Nobody"
+    },
+    {
+      "id": "cf88",
+      "model": "Toyota Corolla",
+      "plate": "nap2157",
+      "year": "2001",
+      "owner": "Paulo Galvão"
+    },
+    {
+      "id": "d42b",
+      "model": "carro",
+      "plate": "nap",
+      "year": "2024",
+      "owner": "Vini Jr."
+    },
+    {
+      "id": "90da",
+      "model": "",
+      "plate": "",
+      "year": "",
+      "owner": ""
+    }
+  ]
+}
